@@ -6,4 +6,4 @@ The app uses GCM(GOOGLE CLOUD MESSAGING SERVICES) at backend to provide the chat
 I have also uploaded the server code and apk file for the app.
 The server is already online on some free hosting websites,you could try app by installing app on two mobiles parallely and login at the same time.
 This app requires your location(high accuracy) and high internet speed.
-While testing the app keep patience,bcoz the server is freely hosted,herefore sped is very slow.
+While testing the app keep patience,bcoz the server is freely hosted,therefore speed is very slow.
